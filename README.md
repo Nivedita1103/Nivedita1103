@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nivedita Kokil</h1>
-<h3 align="center">A Head full of dreams</h3>
+<h3 align="center">Android Developer | Coder | Learner</h3>
 
 - 🌱 I’m currently learning **Android Development**
 
